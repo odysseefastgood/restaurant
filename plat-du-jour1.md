@@ -1,0 +1,6 @@
+- La Tartine Lamartine
+- La Salade Saladin
+- Le Velouté Voltaire
+- Les Focacci Da Vinci
+- Les Pizzas de Spinoza
+- Les Triangles de Pythagore
