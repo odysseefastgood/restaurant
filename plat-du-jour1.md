@@ -1,6 +1,15 @@
-- La Tartine Lamartine
-- La Salade Saladin
-- Le Velouté Voltaire
-- Les Focacci Da Vinci
-- Les Pizzas de Spinoza
-- Les Triangles de Pythagore
+## La Tartine Lamartine
+
+Sélection de tartines de pain avec fromage, aubergine, ...
+
+## La Salade Saladin
+
+Salade grècque
+
+## Le Velouté Voltaire
+
+Gaspacio
+
+## Les Pizzas de Spinoza
+
+A la demande
