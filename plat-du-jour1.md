@@ -8,7 +8,7 @@ Salade grècque
 
 ## Le Velouté Voltaire
 
-Gaspacio
+Gaspacio ou soupe chaude selon la saison
 
 ## Les Pizzas de Spinoza
 
