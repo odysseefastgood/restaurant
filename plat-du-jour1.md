@@ -12,4 +12,4 @@ Gaspacio ou soupe chaude selon la saison
 
 ## Les Pizzas de Spinoza
 
-A la demande
+Pizza faites sur place à la demande
