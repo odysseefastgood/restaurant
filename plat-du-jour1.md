@@ -1,15 +1,23 @@
 ## La Tartine Lamartine
 
-Sélection de tartines de pain avec fromage, aubergine, ...
+Tomate, Emmental, Champignon, Olive
 
 ## La Salade Saladin
 
-Salade grècque
+Mesclun, Tomate, Féta, Jambon Cru, Olive
 
 ## Le Velouté Voltaire
 
-Gaspacio ou soupe chaude selon la saison
+Gaspacho ou Potage Chaud selon Saison
 
-## Les Pizzas de Spinoza
+## Le Wok Khéops
 
-Pizza faites sur place à la demande
+Suggestion du Jour
+
+## L'Assiette La Fayette
+
+Salade du Jour
+
+## Le Ternaire d'Homère
+
+3 au choix : Velouté ou Gaspacho ; Frites ou Pomme de Terre au four ; Salade ; Steack Végétal
